@@ -1,0 +1,98 @@
+body{
+    background-color: gold;
+    border-color:black;
+    border-width: 5px;
+    border-style:groove;
+    padding:4px;
+    margin:0;
+}
+h1,h2{ 
+    background-color: rgb(31, 144, 138);
+    color:violet;  
+    text-align: center;
+}
+h3{
+    color:rgb(184, 57, 121);  
+    text-decoration: dashed;
+
+}
+
+h2{
+    border-bottom: 4px solid green;
+    
+}
+p.tee{
+    color: brown;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px blue;
+    font-style: italic;
+}
+.ee{
+    color: orangered;
+    background-color:aquamarine;
+    font-weight: bolder;
+}
+p.para1{
+    text-decoration: line-through;
+
+}
+.UL{
+    text-decoration: underline;
+
+}
+p.para3{
+    line-height: 23px; 
+    background-color: antiquewhite;
+    padding:20px 30px 20px 70px;
+    border-width: 3px;
+    border-color:rgb(4, 4, 4);
+    border-style: dashed;
+    border-bottom-color:rgb(200, 178, 178);
+    border-radius: 200px;
+    color:indigo;
+    margin:0;
+}
+p.para4{
+    line-height:15px;
+
+    padding:20px;
+    padding-left: 300px;
+    border-width:4px;
+    border-color: darkslategrey;
+    border-radius: 20px;
+    border-style:double;
+    margin:0 ;
+    margin-left: 200px;
+    background-image: url(ants.png);
+    background-size: cover;
+    background-position: center;
+}
+.img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    padding:25px;
+    border:brown 6px solid;
+}
+#para7{
+    color:azure;
+
+}
+.spAn{
+    background-color:purple;
+    color: red;
+}
+.op{
+    background-color:purple;
+    color: red;
+}
+a:link{
+    color:rgb(153, 56, 75);
+}
+a:visited{
+    color:darkmagenta;
+}
+a:hover{
+    color:aquamarine;
+}
